@@ -3,7 +3,7 @@ def division(num1, num2)
 end
 
 def assign_variable(value)
-  value.i
+  
 end
 
 def argue(argument)
@@ -11,7 +11,6 @@ def argue(argument)
 end
 
 def greeting(argument1, argument2)
-  
 end
 
 def return_a_value
